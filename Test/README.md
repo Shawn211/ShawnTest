@@ -9,12 +9,21 @@ Algorithms-and-Data-Structures
 
 ******
 ## 目录
-* [Stack：栈](#Stack：栈)
-* [Queue队列](#Queue队列)
-* [Deque-双端队列](#Deque-双端队列)
-* [LinkedList-链表](#LinkedList-链表)
-* [Recursion-递归](#Recursion-递归)
-* [Recursion--递归](#Recursion--递归)
+* [Stack：栈](#Stack-栈)
+* [Queue：队列](#Queue-队列)
+* [Deque：双端队列](#Deque-双端队列)
+* [LinkedList：链表](#LinkedList-链表)
+* [Recursion：递归](#Recursion-递归)
+* [Stack 栈](#Stack-栈)
+* [Queue 队列](#Queue-队列)
+* [Deque 双端队列](#Deque-双端队列)
+* [LinkedList 链表](#LinkedList-链表)
+* [Recursion 递归](#Recursion-递归)
+* [Stack  栈](#Stack-栈)
+* [Queue  队列](#Queue-队列)
+* [Deque  双端队列](#Deque-双端队列)
+* [LinkedList  链表](#LinkedList-链表)
+* [Recursion  递归](#Recursion-递归)
 
 ******
 [Stack：栈](Stack/README.md)
