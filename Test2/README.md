@@ -1,1 +1,1 @@
-[gogogo](Test)
+[gogogo](../Test)
