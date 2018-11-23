@@ -10,10 +10,10 @@ Algorithms-and-Data-Structures
 ******
 ## 目录
 * [Stack：栈](#Stack：栈)
-* [：队列](#：队列)
-* [Deque双端队列](#Deque双端队列)
-* [LinkedList：](#LinkedList：)
-* [Recursion:递归](#Recursion:-递归)
+* [Queue队列](#Queue队列)
+* [Deque:双端队列](#Deque:双端队列)
+* [LinkedList 链表](#LinkedList-链表)
+* [Recursion  递归](#Recursion  递归)
 
 ******
 [Stack：栈](Stack/README.md)
@@ -36,7 +36,7 @@ Algorithms-and-Data-Structures
 * 应用展示
 
 ******
-[：队列](Queue/README.md)
+[Queue队列](Queue/README.md)
 ------
 * 基本概念
 * 队列操作
@@ -50,7 +50,7 @@ Algorithms-and-Data-Structures
 * 应用展示
 
 ******
-[Deque双端队列](Deque/README.md)
+[Deque:双端队列](Deque/README.md)
 ------
 * 基本概念
 * Deque操作
@@ -66,7 +66,7 @@ Algorithms-and-Data-Structures
 * 应用展示
 
 ******
-[LinkedList：](LinkedList/README.md)
+[LinkedList 链表](LinkedList/README.md)
 ------
 * 基本概念
 * 链表操作
@@ -96,7 +96,7 @@ Algorithms-and-Data-Structures
 * 实现展示
 
 ******
-[Recursion: 递归](Recursion/README.md)
+[Recursion：递归](Recursion/README.md)
 ------
 * 基本概念
 * 递归三定律
