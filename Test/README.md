@@ -10,9 +10,9 @@ Algorithms-and-Data-Structures
 ******
 ## 目录
 * [Stack：栈](#Stack：栈)
-* [Queue：队列](#Queue：队列)
-* [Deque：双端队列](#Deque：双端队列)
-* [LinkedList：链表](#LinkedList：链表)
+* [Queue：队列](#：队列)
+* [Deque：双端队列](#Deque双端队列)
+* [LinkedList：链表](#LinkedList：)
 * [Recursion：递归](#Recursion：递归)
 
 ******
@@ -36,7 +36,7 @@ Algorithms-and-Data-Structures
 * 应用展示
 
 ******
-[Queue：队列](Queue/README.md)
+[：队列](Queue/README.md)
 ------
 * 基本概念
 * 队列操作
@@ -50,7 +50,7 @@ Algorithms-and-Data-Structures
 * 应用展示
 
 ******
-[Deque：双端队列](Deque/README.md)
+[Deque双端队列](Deque/README.md)
 ------
 * 基本概念
 * Deque操作
@@ -66,7 +66,7 @@ Algorithms-and-Data-Structures
 * 应用展示
 
 ******
-[LinkedList：链表](LinkedList/README.md)
+[LinkedList：](LinkedList/README.md)
 ------
 * 基本概念
 * 链表操作
