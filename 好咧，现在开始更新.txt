@@ -1,1 +1,2 @@
 尝试 git merge --no-ff 和 git merge --squash
+second commit
